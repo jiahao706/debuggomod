@@ -1,0 +1,2 @@
+# debuggomod
+debug go mod
