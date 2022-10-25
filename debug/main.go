@@ -2,7 +2,7 @@ package debug
 
 import (
 	"fmt"
-	"testapp/debug2"
+	"github.com/jiahao706/debuggomod/debug2"
 )
 
 func DO() {
